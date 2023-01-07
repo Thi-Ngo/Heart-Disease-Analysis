@@ -9,3 +9,6 @@ The study included 302 patients, with 206 males and 96 females. The findings sho
 Based on these results, it is recommended that individuals focus on maintaining a healthy lifestyle, including regular exercise and a balanced diet, to help reduce their risk of heart disease
 
 The work is done with Jupyter notebook
+
+Reference:
+https://archive.ics.uci.edu/ml/datasets/heart+disease
